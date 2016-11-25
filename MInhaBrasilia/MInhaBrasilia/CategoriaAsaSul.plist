@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   CategoriaAsul.plist
+   MInhaBrasilia
+
+   Created by Leandro Vieira on 24/11/16.
+   Copyright (c) 2016 Leandro Vieira. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>categorias</key>
+        <array>
+            <string>Academias</string>
+            <string>Acessórios, Bijoux e Joias</string>
+            <string>Agropecuárias e Pet Shop</string>
+            <string>Armarinhos e Presentes</string>
+            <string>Artigos de Festas</string>
+            <string>Artigos do Lar</string>
+            <string>Artigos Esportivos</string>
+            <string>Assistência Técnica</string>
+            <string>Audiovisual e Fotografia</string>
+            <string>Automóveis</string>
+            <string>Bancos e Lotéricas</string>
+            <string>Barbearias</string>
+            <string>Bares e Pubs</string>
+            <string>Bebidas e Carnes</string>
+            <string>Cafés, Crepes e Sorvetes</string>
+            <string>Calçados</string>
+            <string>Casa e Decoração</string>
+            <string>Chaveiros e Relojoeiros</string>
+            <string>Clínicas e Consultórios</string>
+            <string>Clínicas e Spas</string>
+            <string>Confecções e Malharias</string>
+            <string>Confeitarias e Delikatessen</string>
+            <string>Consultorias e Assessorias</string>
+            <string>Cosméticos e Perfumaria</string>
+            <string>Costureiras e Sapatarias</string>
+            <string>Criança e Bebê</string>
+            <string>Cursos de Idiomas e Técnicos</string>
+            <string>Decorações e Molduras</string>
+            <string>Depilação</string>
+            <string>Diversão e Cultura</string>
+            <string>Educação</string>
+            <string>Elétrica e Hidráulica</string>
+            <string>Ensino Infantil ao Superior</string>
+            <string>Escritórios e Consultorias</string>
+            <string>Estética e Beleza</string>
+            <string>Farmácias e Equipamentos</string>
+            <string>Floriculturas</string>
+            <string>Gastronomia</string>
+            <string>Hotelaria e Viagens</string>
+            <string>Imobiliárias</string>
+            <string>Informática e Telefonia</string>
+            <string>Lanchonetes</string>
+            <string>Lavanderias</string>
+            <string>Lazer</string>
+            <string>Livrarias e Papelarias</string>
+            <string>Móveis para Escritório</string>
+            <string>Materiais de Construção</string>
+            <string>Moda Feminina</string>
+            <string>Moda Unissex</string>
+            <string>Naturais e Self-Service</string>
+            <string>Óticas</string>
+            <string>Outros</string>
+            <string>Panificadoras</string>
+            <string>Pizzarias</string>
+            <string>Pontos Livres</string>
+            <string>Religiosidades</string>
+            <string>Repartições Públicas</string>
+            <string>Restaurantes Asiáticos</string>
+            <string>Restaurantes Brasileiros</string>
+            <string>Restaurantes Internacionais</string>
+            <string>Salões de Beleza</string>
+            <string>Supermercados</string>
+        </array>
+    </dict>
+</plist>
